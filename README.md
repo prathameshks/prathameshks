@@ -1,8 +1,9 @@
 
 <h1 align="center"><b>Hi , I'm Prathamesh Sable </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=25&duration=3000&pause=1000&color=F7D50D&center=true&vCenter=true&width=435&lines=Student+at+MESCOE%2C+Pune;A+Learning+Enthusiast+;Python+Developer;Backend+Developer)](https://prathameshks.github.io/)
-
+</div>
 <br>
 
 
@@ -87,8 +88,10 @@
 [![Prathamesh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=prathameshks&show_icons=true&theme=default#gh-light-mode-only)]()
 
 </div>
+<div align="center">    
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshks&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="prathameshks"/>
 
+</div>
 <br>
 <br>
 
