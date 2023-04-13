@@ -85,7 +85,7 @@
 <div align="center">
 
 [![Prathamesh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=prathameshks&show_icons=true&theme=dark#gh-dark-mode-only)]()
-[![Prathamesh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=prathameshks&show_icons=true&theme=default#gh-light-mode-only)]()
+<!-- [![Prathamesh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=prathameshks&show_icons=true&theme=default#gh-light-mode-only)]() -->
 
 </div>
 <div align="center">    
