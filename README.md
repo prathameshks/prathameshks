@@ -87,9 +87,8 @@
 [![Prathamesh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=prathameshks&show_icons=true&theme=dark#gh-dark-mode-only)]()
 <!-- [![Prathamesh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=prathameshks&show_icons=true&theme=default#gh-light-mode-only)]() -->
 
-</div>
-<div align="center">    
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshks&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="prathameshks"/>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshks&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="auto" style="width:100%"  alt="prathameshks"/>
 
 </div>
 <br>
